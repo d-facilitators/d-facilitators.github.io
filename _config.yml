@@ -1,0 +1,6 @@
+title: D-Facilitators: Rate My Facilities
+description: A site providing helpful information on good facilities around campus.
+theme: jekyll-theme-minima
+
+gems:
+  - jekyll-mentions
