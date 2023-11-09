@@ -34,5 +34,6 @@ This landing page is displayed upon running the site before the user logs in.
 ### Individual Facilities
 ### Complaints
 
-### M1 Project Page
-### M2 Project Page
+### Project Pages
+
+<a href="m1.md">M1 Project Page</a>
