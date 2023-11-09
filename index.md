@@ -4,11 +4,11 @@
 - <a href="overview">Overview</a>
 - <a href="team">Team</a>
 - <a href="deployment">Deployment</a>
-<!--- <a href="userguide">User Guide</a>
-- <a href="feedback">Community Feedback</a>
-- <a href="devguide">Developer Guide</a>
-- <a href="devhist">Development History</a>
-- <a href="continuous">Continuous Integration</a>-->
+<!--- User Guide
+- Community Feedback
+- Developer Guide
+- Development History
+- Continuous Integration-->
 
 <h2 id="overview">
 Overview</h2>
