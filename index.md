@@ -1,7 +1,5 @@
 # **Rate My Facilities**
 
-## Rate my Facilities
-
 ### Table of Contents
 - Overview
 - Team
