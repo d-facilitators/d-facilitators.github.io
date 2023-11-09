@@ -1,18 +1,32 @@
 # **Rate My Facilities**
 
 ### Table of Contents
-- Overview
-- Team
-- Deployment
-- User Guide
-- Community Feedback
-- Developer Guide
-- Development History
-- Continuous Integration
+- <a href="overview">Overview</a>
+- <a href="team">Team</a>
+- <a href="deployment">Deployment</a>
+<!--- <a href="userguide">User Guide</a>
+- <a href="feedback">Community Feedback</a>
+- <a href="devguide">Developer Guide</a>
+- <a href="devhist">Development History</a>
+- <a href="continuous">Continuous Integration</a>-->
 
-## Overview
+<h2 id="overview">
+Overview</h2>
 
-## Deployment
+Many people on campus struggle with finding facilities they are satisfied with. Well-known restrooms tend to become crowded and will sometimes run out of resources like toilet paper and soap. Water fountain filters are sometimes left unchanged for too long and will become contaminated. Popular study spaces can also become overcrowded and loud, while many "secret" spots are not utilized. Our project, Rate My Facilities, will be a resource that students can use to find facilities near them, rate their quality, and post comments about them.
+
+<h2 id="team">
+Team</h2>
+
+- <a href="https://silviadebenedictis.github.io/">Silvia De Benedictis</a> - Silvia is a Computer Science student expecting to graduate in Fall 2024. Her interests are in Programming, Web Design, Artificial Intelligence, and Graphic Design.
+- <a href="https://jgaleria.github.io/">Joshua Galeria</a> - Joshua is a Computer Engineering student expecting to graduate in Spring 2024. His interests are in Software Engineering, Robotics, Computer Vision, and Machine Learning.
+- <a href="https://uhalpern.github.io/">Urban Halpern</a> - Urban is a Computer Science student expecting to graduate in Fall 2024. His interests are in Data Science, Machine Learning, Programming, and Game Development.
+- <a href="https://kimsyd.github.io/">Sydney Kim</a> - Sydney is a Computer Science student expecting to graduate in Fall 2024. Her interests are in STEM Education, Sustainability Technologies, User Experience Design, and Graphic Design.
+- <a href="https://tranw8.github.io/">Wilson Tran</a> - Wilson is a Computer Science student expecting to graduate in Fall 2024. His interests are in Cybersecurity, Linux Kernel Development, and Language Learning.
+
+<h2 id="deployment">
+Deployment</h2>
+
 ### Landing Page
 ### User Homepage
 ### Facilitiy Ranking
@@ -21,6 +35,3 @@
 
 ### M1 Project Page
 ### M2 Project Page
-
-
-
