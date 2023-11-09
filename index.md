@@ -25,6 +25,10 @@ Team</h2>
 Deployment</h2>
 
 ### Landing Page
+
+<img src="rmf_landing.png">
+This landing page is displayed upon running the site before the user logs in.
+
 ### User Homepage
 ### Facility Ranking
 ### Individual Facilities
