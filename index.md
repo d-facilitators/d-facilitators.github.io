@@ -36,13 +36,4 @@ This landing page is displayed upon running the site before the user logs in.
 
 ### Project Pages
 
-#### Milestone 1
-
-<img src="m1.png">
-
-#### Overall Goals:
-- Create initial landing, onboarding, signup page mockups
-- Create initial layout of data collections
-- Initial brand design - logo, color palette, branding
-
-<a href="https://github.com/orgs/d-facilitators/projects/1">Our M1 Project Board</a>
+<a href="m1.md">M1</a>
