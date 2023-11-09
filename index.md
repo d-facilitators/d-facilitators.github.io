@@ -29,7 +29,7 @@ Deployment</h2>
 
 ### Landing Page
 ### User Homepage
-### Facilitiy Ranking
+### Facility Ranking
 ### Individual Facilities
 ### Complaints
 
