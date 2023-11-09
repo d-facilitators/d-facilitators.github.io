@@ -4,11 +4,6 @@
 - <a href="overview">Overview</a>
 - <a href="team">Team</a>
 - <a href="deployment">Deployment</a>
-<!--- User Guide
-- Community Feedback
-- Developer Guide
-- Development History
-- Continuous Integration-->
 
 <h2 id="overview">
 Overview</h2>
@@ -18,7 +13,7 @@ Many people on campus struggle with finding facilities they are satisfied with. 
 <h2 id="team">
 Team</h2>
 
-<a href="https://docs.google.com/document/d/1ddkkbSHYJAy0VHQvVl842vhn9q4RlY688vB10F-lX9o/edit?usp=sharing"><h3>Team Contract</h3></a>
+<a href="https://docs.google.com/document/d/1ddkkbSHYJAy0VHQvVl842vhn9q4RlY688vB10F-lX9o/edit?usp=sharing">Team Contract</a>
 
 - <a href="https://silviadebenedictis.github.io/">Silvia De Benedictis</a> - Silvia is a Computer Science student expecting to graduate in Fall 2024. Her interests are in Programming, Web Design, Artificial Intelligence, and Graphic Design.
 - <a href="https://jgaleria.github.io/">Joshua Galeria</a> - Joshua is a Computer Engineering student expecting to graduate in Spring 2024. His interests are in Software Engineering, Robotics, Computer Vision, and Machine Learning.
