@@ -27,7 +27,7 @@ Deployment</h2>
 
 ### Landing Page
 
-<img src="rmf_landing.png">
+<img src="rmf_landing1.png">
 This landing page is displayed upon running the site before the user logs in.
 
 ### User Homepage
