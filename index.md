@@ -62,3 +62,5 @@ Logged users can view a list of UH Manoa buildings with information on how many 
 [**Milestone 1**](m1.md)
 
 [**Milestone 2**](m2.md)
+
+<a href="https://github.com/d-facilitators">Check us out on Github!</a>
