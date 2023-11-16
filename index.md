@@ -31,7 +31,15 @@ This landing page is displayed upon running the site before the user logs in.
 
 ### User Homepage
 ### Facility Ranking
+<img src="facility-rankings.png">
+Once the user is logged in, they are able to access all ratings and view the top rated facilities. They are also able to submit a rating.
+
 ### Individual Facilities
+
+### Building List
+<img src="rmf_buildings.png">
+Logged users can view a list of UH Manoa buildings with information on how many facilities they have, such as number of restrooms and water filters.
+
 ### Complaints
 
 ### Project Pages
