@@ -30,6 +30,11 @@ Deployment</h2>
 <img src="rmf_landing1.png">
 This landing page is displayed upon running the site before the user logs in.
 
+### Onboarding Page
+<img src="Onboarding-Mockup.png">
+
+The sign up page allows a new user to create an account so that they have access to other pages.
+
 ### User Homepage
 <img src="rmf_homepage.png">
 
