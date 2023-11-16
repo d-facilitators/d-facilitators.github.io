@@ -27,46 +27,37 @@ Deployment</h2>
 
 ### Landing Page
 
-<img src="rmf_landing1.png">
+<img src="assets/images/rmf_landing1.png">
 This landing page is displayed upon running the site before the user logs in.
 
 ### Sign Up Page
-<img src="Onboarding-Mockup.png">
+<img src="assets/images/Onboarding-Mockup.png">
 
 The sign up page allows a new user to create an account so that they have access to other pages.
 
 ### User Homepage
-<img src="rmf_homepage.png">
+<img src="assets/images/rmf_homepage.png">
 
 The home page contains access to other pages like the Campus Map and Ranking page.
 
 ### Facility Ranking
-<img src="facility-rankings.png">
+<img src="assets/images/facility-rankings.png">
 Once the user is logged in, they are able to access all ratings and view the top rated facilities. 
 
 ### Individual Facilities
 
-<img src="sample-facility.png">
+<img src="assets/images/sample-facility.png">
 
 This page displays individual facilities, where the user is able to rate them. Users can also view and upload images and comments as well as report any issues. 
 
 ### Building List
-<img src="rmf_buildings.png">
+<img src="assets/images/rmf_buildings.png">
 Logged users can view a list of UH Manoa buildings with information on how many facilities they have, such as number of restrooms and water filters.
 
 ### Complaints
 
 ### Project Pages
 
-#### Milestone 1
+[**Milestone 1**](m1.md)
 
-<img src="m1.png">
-
-#### Overall Goals:
-- Create initial landing, onboarding, signup page mockups
-- Create initial layout of data collections
-- Initial brand design - logo, color palette, branding
-
-<a href="https://github.com/orgs/d-facilitators/projects/1">Our M1 Project Board</a>
-
-<a href="https://github.com/orgs/d-facilitators/projects/2">Our M2 Project Board</a>
+[**Milestone 2**](m2.md)
