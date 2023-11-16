@@ -23,6 +23,7 @@ Team</h2>
 
 <h2 id="deployment">
 Deployment</h2>
+<a href="https://ratemyfacilities.me/">Deployed application running on Digital Ocean</a>
 
 ### Landing Page
 
@@ -30,6 +31,10 @@ Deployment</h2>
 This landing page is displayed upon running the site before the user logs in.
 
 ### User Homepage
+<img src="rmf_homepage.png">
+
+The home page contains access to other pages like the Campus Map and Ranking page.
+
 ### Facility Ranking
 <img src="facility-rankings.png">
 Once the user is logged in, they are able to access all ratings and view the top rated facilities. They are also able to submit a rating.
@@ -54,3 +59,5 @@ Logged users can view a list of UH Manoa buildings with information on how many 
 - Initial brand design - logo, color palette, branding
 
 <a href="https://github.com/orgs/d-facilitators/projects/1">Our M1 Project Board</a>
+
+<a href="https://github.com/orgs/d-facilitators/projects/2">Our M2 Project Board</a>
