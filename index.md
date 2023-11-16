@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "home"
+title: "Rate My Facilities"
 ---
-
-# **Rate My Facilities**
 
 ### Table of Contents
 - <a href="overview">Overview</a>
@@ -58,8 +56,6 @@ This page displays individual facilities, where the user is able to rate them. U
 ### Building List
 <img src="assets/images/rmf_buildings.png">
 Logged users can view a list of UH Manoa buildings with information on how many facilities they have, such as number of restrooms and water filters.
-
-### Complaints
 
 ### Project Pages
 
