@@ -30,7 +30,7 @@ Deployment</h2>
 <img src="rmf_landing1.png">
 This landing page is displayed upon running the site before the user logs in.
 
-### Onboarding Page
+### Sign Up Page
 <img src="Onboarding-Mockup.png">
 
 The sign up page allows a new user to create an account so that they have access to other pages.
@@ -42,9 +42,13 @@ The home page contains access to other pages like the Campus Map and Ranking pag
 
 ### Facility Ranking
 <img src="facility-rankings.png">
-Once the user is logged in, they are able to access all ratings and view the top rated facilities. They are also able to submit a rating.
+Once the user is logged in, they are able to access all ratings and view the top rated facilities. 
 
 ### Individual Facilities
+
+<img src="sample-facility.png">
+
+This page displays individual facilities, where the user is able to rate them. Users can also view and upload images and comments as well as report any issues. 
 
 ### Building List
 <img src="rmf_buildings.png">
