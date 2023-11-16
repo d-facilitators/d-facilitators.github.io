@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6c2361b-b688-4d0f-96e1-f9c6b16607a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/m1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Onboarding-Mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Onboarding-Mockup.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facility-rankings.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/facility-rankings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/m1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rmf_buildings.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/rmf_buildings.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rmf_homepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/rmf_homepage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rmf_landing1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/rmf_landing1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-facility.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/sample-facility.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "issue-11",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/sydneykim/Documents/GitHub/d-facilitators.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

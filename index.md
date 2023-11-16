@@ -1,3 +1,8 @@
+---
+layout: page
+title: "home"
+---
+
 # **Rate My Facilities**
 
 ### Table of Contents
