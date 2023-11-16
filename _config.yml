@@ -2,7 +2,7 @@ title: "Rate My Facilities"
 description: "A site providing helpful information on good facilities around campus."
 google_analytics:
   show_downloads: true
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima
 
 gems:
   - jekyll-mentions
