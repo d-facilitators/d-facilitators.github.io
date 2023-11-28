@@ -53,7 +53,7 @@ The first time you run the app, it will create some default users and data. Here
 
 ```
  meteor npm run start
-> meteor-application-template-react@ start C:\Users\Silvi\OneDrive\Documents\VS Code\ICS314\rate-my-facilities\app
+> meteor-application-template-react@ start C:\Users\ICS314\rate-my-facilities\app
 > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
 
 [[[[[ C:\Users\ICS314\rate-my-facilities\app ]]]]]
