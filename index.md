@@ -41,6 +41,14 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 ```
 $ meteor npm install
 ```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
+
+```
+$ meteor npm run start
+```
 The first time you run the app, it will create some default users and data. Here is the output:
 
 ```
@@ -73,13 +81,6 @@ I20231128-12:36:01.536(-10)?   Adding: POST Water fountain
 
 => App running at: http://localhost:3000/
 
-```
-## Running the system
-
-Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
-
-```
-$ meteor npm run start
 ```
 
 ### Viewing the running app
