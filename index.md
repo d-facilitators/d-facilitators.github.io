@@ -64,11 +64,6 @@ The first time you run the app, it will create some default users and data. Here
 I20231128-12:36:00.875(-10)? Creating the default user(s)
 I20231128-12:36:00.903(-10)?   Creating user admin.
 I20231128-12:36:01.229(-10)?   Creating user johnfoo.
-I20231128-12:36:01.451(-10)? Creating default data.
-I20231128-12:36:01.452(-10)?   Adding: Basket (john@foo.com)
-I20231128-12:36:01.495(-10)?   Adding: Bicycle (john@foo.com)
-I20231128-12:36:01.500(-10)?   Adding: Banana (admin@foo.com)
-I20231128-12:36:01.505(-10)?   Adding: Boogie Board (admin@foo.com)
 I20231128-12:36:01.511(-10)? Creating default buildings.
 I20231128-12:36:01.512(-10)?   Adding: POST
 I20231128-12:36:01.522(-10)?   Adding: POST
