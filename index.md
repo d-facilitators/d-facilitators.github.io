@@ -100,3 +100,5 @@ Logged users can view a list of UH Manoa buildings with information on how many 
 [**Milestone 3**](m3.md)
 
 <a href="https://github.com/d-facilitators">Check us out on Github!</a>
+
+![ci-badge](https://github.com/d-facilitators/rate-my-facilities/workflows/ci-rate-my-facilities/badge.svg)
