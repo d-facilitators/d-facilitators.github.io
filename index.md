@@ -28,6 +28,40 @@ Team</h2>
 Deployment</h2>
 <a href="https://ratemyfacilities.me/">Deployed application running on Digital Ocean</a>
 
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [https://github.com/d-facilitators/rate-my-facilities](https://github.com/d-facilitators/rate-my-facilities), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+
+Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+
+Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
+
+```
+$ meteor npm run start
+```
+
+### Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/main/config/settings.development.json), or else register a new account.
+
+### ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+
+```
+meteor npm run lint
+```
+
 ### Landing Page
 
 <img src="assets/images/rmf_landing1.png">
@@ -62,5 +96,7 @@ Logged users can view a list of UH Manoa buildings with information on how many 
 [**Milestone 1**](m1.md)
 
 [**Milestone 2**](m2.md)
+
+[**Milestone 3**](m3.md)
 
 <a href="https://github.com/d-facilitators">Check us out on Github!</a>
