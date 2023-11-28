@@ -41,7 +41,39 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 ```
 $ meteor npm install
 ```
+The first time you run the app, it will create some default users and data. Here is the output:
 
+```
+ meteor npm run start
+> meteor-application-template-react@ start C:\Users\Silvi\OneDrive\Documents\VS Code\ICS314\rate-my-facilities\app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ C:\Users\ICS314\rate-my-facilities\app ]]]]]
+
+=> Started proxy.
+=> Started HMR server.                        
+=> Started MongoDB.                           
+I20231128-12:36:00.875(-10)? Creating the default user(s)
+I20231128-12:36:00.903(-10)?   Creating user admin.
+I20231128-12:36:01.229(-10)?   Creating user johnfoo.
+I20231128-12:36:01.451(-10)? Creating default data.
+I20231128-12:36:01.452(-10)?   Adding: Basket (john@foo.com)
+I20231128-12:36:01.495(-10)?   Adding: Bicycle (john@foo.com)
+I20231128-12:36:01.500(-10)?   Adding: Banana (admin@foo.com)
+I20231128-12:36:01.505(-10)?   Adding: Boogie Board (admin@foo.com)
+I20231128-12:36:01.511(-10)? Creating default buildings.
+I20231128-12:36:01.512(-10)?   Adding: POST
+I20231128-12:36:01.522(-10)?   Adding: POST
+I20231128-12:36:01.524(-10)?   Adding: POST
+I20231128-12:36:01.526(-10)?   Adding: Campus Center
+I20231128-12:36:01.527(-10)?   Adding: Hamilton Library
+I20231128-12:36:01.535(-10)? Creating default facilities.
+I20231128-12:36:01.536(-10)?   Adding: POST Water fountain
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+
+```
 ## Running the system
 
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
