@@ -91,7 +91,6 @@ meteor npm run lint
 ```
 
 ### Landing Page
-
 <img src="assets/images/rmf_landing1.png">
 This landing page is displayed upon running the site before the user logs in.
 
@@ -114,11 +113,21 @@ The home page contains access to other pages like the Campus Map and Ranking pag
 <img src="assets/images/facility-rankings.png">
 Once the user is logged in, they are able to access all ratings and view the top rated facilities. 
 
+### Add Review Page
+<img src="assets/images/rmf_add-review.png">
+
+This page allows users to add and submit their reviews on facilities. 
+
 ### Individual Facilities
 
 <img src="assets/images/sample-facility.png">
 
 This page displays individual facilities, where the user is able to rate them. Users can also view and upload images and comments as well as report any issues. 
+
+### Add a Facility Page
+<img src="assets/images/rmf_add-facility.png">
+
+This page allows users to add a new facility by specifying the type of facility, the building where the facility is found, and the floor number.
 
 ### Building List
 <img src="assets/images/rmf_buildings.png">
