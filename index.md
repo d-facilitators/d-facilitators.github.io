@@ -100,6 +100,11 @@ This landing page is displayed upon running the site before the user logs in.
 
 The sign up page allows a new user to create an account so that they have access to other pages.
 
+### Sign In Page
+<img src="assets/images/rmf_sign-in.png">
+
+The sign in page allows a user to sign in to their account to gain access to other pages.
+
 ### User Homepage
 <img src="assets/images/rmf_homepage.png">
 
