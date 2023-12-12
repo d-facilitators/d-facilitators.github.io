@@ -119,7 +119,6 @@ Once the user is logged in, they are able to access all ratings and view the top
 This page allows users to add and submit their reviews on facilities. 
 
 ### Individual Facilities
-
 <img src="assets/images/sample-facility.png">
 
 This page displays individual facilities, where the user is able to rate them. Users can also view and upload images and comments as well as report any issues. 
@@ -127,11 +126,27 @@ This page displays individual facilities, where the user is able to rate them. U
 ### Add a Facility Page
 <img src="assets/images/rmf_add-facility.png">
 
-This page allows users to add a new facility by specifying the type of facility, the building where the facility is found, and the floor number.
+This page allows users to add a new facility by specifying the type of facility, the building where the facility is found, the floor number, and photos of the facility.
 
 ### Building List
 <img src="assets/images/rmf_buildings.png">
-Logged users can view a list of UH Manoa buildings with information on how many facilities they have, such as number of restrooms and water filters.
+Logged users can view a list of UH Manoa buildings with information on how many facilities they have, such as number of restrooms and water filters. Clicking on a facility will take the user to its own individual page.
+
+### Status Updates (Admin)
+<img src="assets/images/rmf_status-update.png">
+Admins can view and update current usability status for all facilities. They can "Resolve" a facility that no longer has a standing issue and can also escalate an issue report into a standing issue.
+
+## Community Feedback
+We had UH Manoa students try Rate My Facilities, and the overall feedback was positive. They were able to create and log in to their accounts easily. When testing the 'Add Review' and 'Add Facility' forms, the majority of students found them simple and straightforward. They also appreciated the user-friendly design of the Individual Facility pages.
+
+Feedbacks from five students:
+* Student 1: "I like how you can report an issue if there's something wrong with a facility. It helps to let others know in case they want to use it."
+* Student 2: ""
+* Student 3: ""
+* Student 4: ""
+* Student 5: ""
+
+Overall, the students felt that the website had useful information and found it interesting that they could see updates on each facility. 
 
 ### Project Pages
 
