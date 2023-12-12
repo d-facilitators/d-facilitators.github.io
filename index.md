@@ -64,14 +64,6 @@ The first time you run the app, it will create some default users and data. Here
 I20231128-12:36:00.875(-10)? Creating the default user(s)
 I20231128-12:36:00.903(-10)?   Creating user admin.
 I20231128-12:36:01.229(-10)?   Creating user johnfoo.
-I20231128-12:36:01.511(-10)? Creating default buildings.
-I20231128-12:36:01.512(-10)?   Adding: POST
-I20231128-12:36:01.522(-10)?   Adding: POST
-I20231128-12:36:01.524(-10)?   Adding: POST
-I20231128-12:36:01.526(-10)?   Adding: Campus Center
-I20231128-12:36:01.527(-10)?   Adding: Hamilton Library
-I20231128-12:36:01.535(-10)? Creating default facilities.
-I20231128-12:36:01.536(-10)?   Adding: POST Water fountain
 => Started your app.
 
 => App running at: http://localhost:3000/
@@ -109,7 +101,7 @@ The sign in page allows a user to sign in to their account to gain access to oth
 
 The home page contains access to other pages like the Campus Map and Ranking page.
 
-### Facility Ranking
+### Facility Reviews
 <img src="assets/images/facility-rankings.png">
 Once the user is logged in, they are able to access all ratings and view the top rated facilities. 
 
@@ -119,7 +111,7 @@ Once the user is logged in, they are able to access all ratings and view the top
 This page allows users to add and submit their reviews on facilities. 
 
 ### Individual Facilities
-<img src="assets/images/sample-facility.png">
+<img src="assets/images/rmf_individual-facility.png">
 
 This page displays individual facilities, where the user is able to rate them. Users can also view and upload images and comments as well as report any issues. 
 
@@ -137,14 +129,14 @@ Logged users can view a list of UH Manoa buildings with information on how many 
 Admins can view and update current usability status for all facilities. They can "Resolve" a facility that no longer has a standing issue and can also escalate an issue report into a standing issue.
 
 ## Community Feedback
-We had UH Manoa students try Rate My Facilities, and the overall feedback was positive. They were able to create and log in to their accounts easily. When testing the 'Add Review' and 'Add Facility' forms, the majority of students found them simple and straightforward. They also appreciated the user-friendly design of the Individual Facility pages.
+We had UH Manoa students try Rate My Facilities and the overall feedback was positive. They were able to create and log in to their accounts easily. When testing the 'Add Review' and 'Add Facility' forms, the majority of students found them simple and straightforward. They also appreciated the user-friendly design of the Individual Facility pages.
 
 Feedbacks from five students:
 * Student 1: "I like how you can report an issue if there's something wrong with a facility. It helps to let others know in case they want to use it."
-* Student 2: ""
-* Student 3: ""
-* Student 4: ""
-* Student 5: ""
+* Student 2: "The building list should have more buildings and also a variety of facilities"
+* Student 3: "Maybe make the facility image sizes a little bigger to fill up the page"
+* Student 4: "It simple and easy to use. I would definitely use this if it was a phone app!"
+* Student 5: "One recommendation is to include edit reviews. Once the facility is fixed we should also be able to fix our reviews."
 
 Overall, the students felt that the website had useful information and found it interesting that they could see updates on each facility. 
 
