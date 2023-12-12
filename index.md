@@ -4,11 +4,11 @@ title: "Rate My Facilities"
 ---
 
 ### Table of Contents
-- <a href="#overview">Overview</a>
-- <a href="#team">Team</a>
-- <a href="#installation">Installation</a>
-- <a href="#deployment">Deployment</a>
-- <a href="#feedback">Community Feedback</a>
+- <a href="overview">Overview</a>
+- <a href="team">Team</a>
+- <a href="installation">Installation</a>
+- <a href="deployment">Deployment</a>
+- <a href="feedback">Community Feedback</a>
 
 <h2 id="overview">
 Overview</h2>
