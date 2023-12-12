@@ -6,7 +6,6 @@ title: "Rate My Facilities"
 ### Table of Contents
 - <a href="overview">Overview</a>
 - <a href="team">Team</a>
-- <a href="installation">Installation</a>
 - <a href="deployment">Deployment</a>
 - <a href="feedback">Community Feedback</a>
 
@@ -30,7 +29,6 @@ Team</h2>
 Deployment</h2>
 <a href="https://ratemyfacilities.me/">Deployed application running on Digital Ocean</a>
 
-<h2 id="installation">
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -131,7 +129,6 @@ Logged users can view a list of UH Manoa buildings with information on how many 
 <img src="assets/images/rmf_status-update.png">
 Admins can view and update current usability status for all facilities. They can "Resolve" a facility that no longer has a standing issue and can also escalate an issue report into a standing issue.
 
-<h2 id="feedback">
 ## Community Feedback
 We had UH Manoa students try Rate My Facilities and the overall feedback was positive. They were able to create and log in to their accounts easily. When testing the 'Add Review' and 'Add Facility' forms, the majority of students found them simple and straightforward. They also appreciated the user-friendly design of the Individual Facility pages.
 
